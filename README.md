@@ -1,2 +1,1 @@
-# productly
-Productly
+# [Productly](denisdench.github.io/productly/)
